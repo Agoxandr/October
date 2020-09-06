@@ -23,7 +23,7 @@ var model = mat4.create();
 var mvp = mat4.create();
 var temp = mat4.create();
 
-var camPos = [0, .3, .7];
+var camPos = [0, .2, .5];
 var camOrbitPos = [0, 0, 0];
 
 // Set the camera position
