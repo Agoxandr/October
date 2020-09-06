@@ -1,0 +1,47 @@
+# Blender MTL File: 'Walkman_01.blend'
+# Material Count: 4
+
+newmtl Cassette
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\shazb\\Documents\\Walkman\\Walkman_01_Textures\\Walkman_01_Cassette_8-bit_Diffuse.png
+
+newmtl Headphones
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\shazb\\Documents\\Walkman\\Walkman_01_Textures\\Walkman_01_Headphones_8-bit_Diffuse.png
+
+newmtl Shell
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\shazb\\Documents\\Walkman\\Walkman_01_Textures\\Walkman_01_Shell_8-bit_Diffuse.png
+
+newmtl Walkman
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 0.401163
+illum 9
+map_Kd C:\\Users\\shazb\\Documents\\Walkman\\Walkman_01_Textures\\Walkman_01_8-bit_Diffuse.png
+map_d C:\\Users\\shazb\\Documents\\Walkman\\Walkman_01_Textures\\Walkman_01_8-bit_Diffuse.png
